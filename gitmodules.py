@@ -1,0 +1,5 @@
+[submodule "telegram/vendor/urllib3"]
+	path = telegram/vendor/ptb_urllib3
+	url = https://github.com/python-telegram-bot/urllib3.git
+	branch = ptb
+	
